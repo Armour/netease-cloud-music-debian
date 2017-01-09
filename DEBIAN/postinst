@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+chown root:root /usr/lib/netease-cloud-music/chrome-sandbox
+chmod 4755 /usr/lib/netease-cloud-music/chrome-sandbox

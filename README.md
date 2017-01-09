@@ -7,7 +7,7 @@ Netease Cloud Music for Debian Sid
 ```bash
 ./fetch.sh
 ./pkg.sh
-sudo gdebi netease-cloud-music_1.0.0-1_amd64.deb
+sudo gdebi netease-cloud-music_1.0.0-2_amd64.deb
 ```
 
 ## Dependencies
