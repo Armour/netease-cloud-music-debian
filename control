@@ -1,0 +1,11 @@
+Package: netease-cloud-music
+Version: 1.0.0-1
+Architecture: amd64
+Maintainer: Deepin Sysdev <sysdev@linuxdeepin.com>
+Installed-Size: 110526
+Depends: libasound2 (>= 1.0.16), libatk1.0-0 (>= 1.12.4), libc6 (>= 2.14), libcairo2 (>= 1.6.0), libcups2 (>= 1.4.0), libdbus-1-3 (>= 1.9.14), libexpat1 (>= 2.0.1), libfontconfig1 (>= 2.11.94), libfreetype6 (>= 2.4.2), libgcc1 (>= 1:4.0), libgdk-pixbuf2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.37.3), libgtk2.0-0 (>= 2.24.0), libnspr4 (>= 2:4.9-2~) | libnspr4-0d (>= 1.8.0.10), libnss3 (>= 2:3.13.4-2~) | libnss3-1d (>= 3.12.4), libpango-1.0-0 (>= 1.14.0), libpangocairo-1.0-0 (>= 1.14.0), libqt5core5a (>= 5.5.0), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.0.2) | libqt5gui5-gles (>= 5.0.2), libqt5multimedia5 (>= 5.0.2), libqt5network5 (>= 5.0.2), libqt5widgets5 (>= 5.0.2), libqt5x11extras5 (>= 5.1.0), libqt5xml5 (>= 5.0.2), libstdc++6 (>= 5.2), libx11-6 (>= 2:1.4.99.1), libxcursor1 (>> 1.1.2), libxext6, libxfixes3, libxi6 (>= 2:1.2.99.4), libxrandr2 (>= 2:1.2.99.2), libxrender1, libxss1, libxtst6, zlib1g (>= 1:1.2.3.3), gstreamer1.0-plugins-good, gstreamer1.0-plugins-bad, gstreamer1.0-plugins-ugly, libnspr4, libnss3, libqt5multimedia5-plugins, libqt5multimediawidgets5, libqt5libqgtk2
+Section: sound
+Priority: optional
+Homepage: http://www.deepin.org
+Description: netease cloud music player.
+ netease cloud music player.
